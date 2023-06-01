@@ -20,4 +20,4 @@
  python Wf.py
  
  
- Поддержк:👉 https://hablonly.netlify.app 👈
+ Поддержка:👉 https://hablonly.netlify.app 👈
