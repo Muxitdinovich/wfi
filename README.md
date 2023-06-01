@@ -4,8 +4,11 @@
 Работает лутше для пк.
 
  pip install tkintertable
+ 
  pip install pywifi
+ 
  git clone https://github.com/Muxitdinovich/only.git
+ 
  cd only
  
  Run:
