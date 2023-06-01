@@ -76,7 +76,7 @@ text = Listbox(root, font=('Microsoft Yahei', 14), width=40, height=10, backgrou
 text.grid(row=1, columnspan=2, pady="6")
 
 
-button = Button(root, text='Boshlash', width=20, height=2, command=main, background="#555", foreground="#fff")
+button = Button(root, text='Начать', width=20, height=2, command=main, background="#555", foreground="#fff")
 button.grid(row=2, columnspan=2, pady="6")
 
 
