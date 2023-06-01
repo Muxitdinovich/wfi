@@ -43,14 +43,14 @@ def main():
 
             connected = wifi_connection(password, wifiname)
             if connected:
-                text.insert(END, 'Parol topildi!')
+                text.insert(END, 'Нашлось!')
                 text.insert(END, password)
                 text.see(END)
                 text.update()
                 file.close()
                 break
             else:
-                text.insert(END, f'Togri kelmadi: {password}')
+                text.insert(END, f'Не подходит: {password}')
                 text.see(END)
                 text.update()
         except Exception:
@@ -64,7 +64,7 @@ root.geometry('445x370')
 root.configure(bg='#111')
 
 
-label = Label(root, text='Wfi nomini kriting:', background="#111", foreground="#fff")
+label = Label(root, text='Названий WFi:', background="#111", foreground="#fff")
 label.grid()
 
 
