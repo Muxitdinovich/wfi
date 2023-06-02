@@ -12,15 +12,12 @@
  git clone https://github.com/Muxitdinovich/only.git
  
  cd only
- 
  </pre>
  
  Run:
  
  <pre>
- 
  python Wf.py
- 
  </pre>
  
  Поддержка:👉 https://hablonly.netlify.app 👈
