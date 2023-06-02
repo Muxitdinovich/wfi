@@ -4,7 +4,7 @@
 
 Работает лутше для пк.
 
-
+<pre>
  pip install tkintertable
  
  pip install pywifi
@@ -13,11 +13,14 @@
  
  cd only
  
+ </pre>
  
  Run:
  
+ <pre>
  
  python Wf.py
  
+ </pre>
  
  Поддержка:👉 https://hablonly.netlify.app 👈
