@@ -9,7 +9,7 @@
  
  pip install pywifi
  
- git clone https://github.com/Muxitdinovich/only.git
+ git clone https://github.com/Muxitdinovich/wfi.git
  
  cd only
  </pre>
