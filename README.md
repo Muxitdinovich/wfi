@@ -11,7 +11,7 @@
  
  git clone https://github.com/Muxitdinovich/wfi.git
  
- cd only
+ cd wfi
  </pre>
  Run:
  
