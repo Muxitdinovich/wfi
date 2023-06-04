@@ -17,5 +17,5 @@
  
  <pre>
  python Wf.py
- </pre
+ </pre>
  Поддержка:👉 https://hablonly.netlify.app 👈
