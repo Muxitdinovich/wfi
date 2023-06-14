@@ -3,7 +3,7 @@
 
 
 Работает лутше для пк.
-
+# Устоновить
 <pre>
  pip install tkintertable
  
